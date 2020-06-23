@@ -1,2 +1,2 @@
 # cdn
-jsdelivr CDN
+CDN Files
